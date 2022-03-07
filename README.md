@@ -11,4 +11,4 @@ SSL algorithms slides including SimCLR, MoCo, BYOL and BarlowTwins.
 
 [BarlowTwins slides](https://docs.google.com/presentation/d/1eCzOrqfrzbb6KW0WsZ1BSTAz_U5DgjZe8o2Fo8h65XA/edit?usp=sharing)
 
-Toy code is in SSL_and_Supervised.ipynb (include the linear evaluation)
+Simplified code is in SSL_and_Supervised.ipynb (include the linear evaluation)
